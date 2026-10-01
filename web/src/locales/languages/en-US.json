@@ -12677,6 +12677,7 @@
     "versionPrefix": "v",
     "traceScoreChip": {
       "reasoning": "Why",
+      "noReasoning": "No reasoning recorded for this score.",
       "scoredAt": "Scored {time}",
       "moreCount": "+{count} more",
       "allScores": "All scores ({count})"
