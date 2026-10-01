@@ -10102,6 +10102,7 @@
     "layoutVertical": "Pionowo",
     "layoutForce": "Układ siłowy",
     "exportTraces": "Eksportuj ślady",
+    "exportTracesFailed": "Nie udało się wyeksportować śladów",
     "waterfall": "Wodospad",
     "flameGraph": "Wykres płomieniowy",
     "traceGraph": "Graf śladu",

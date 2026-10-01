@@ -10102,6 +10102,7 @@
     "layoutVertical": "Verticaal",
     "layoutForce": "Indeling van de kracht",
     "exportTraces": "Exporteer traces",
+    "exportTracesFailed": "Exporteren van traces mislukt",
     "waterfall": "Waterval",
     "flameGraph": "Vlamgrafiek",
     "traceGraph": "Trace-grafiek",

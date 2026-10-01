@@ -10102,6 +10102,7 @@
     "layoutVertical": "Vertikal",
     "layoutForce": "Anordnung erzwingen",
     "exportTraces": "Traces exportieren",
+    "exportTracesFailed": "Traces konnten nicht exportiert werden",
     "waterfall": "Wasserfall",
     "flameGraph": "Flammendiagramm",
     "traceGraph": "Trace-Graph",
